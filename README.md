@@ -141,14 +141,12 @@ ftp ftp.lab.internal              # Logs in to the FTP server
 
 All screenshots are in [`evidencias/`](evidencias/), and the full report is in [`informe/`](informe/).
 
-## Authors
+## Author
 
-| Name | GitHub |
-|---|---|
-| Esteban Larco | [@EMLarco](https://github.com/EMLarco) |
-| Andy Laglaguano | — |
+**Esteban Larco** — Information Technology Engineering student at Universidad de las Fuerzas Armadas ESPE, Santo Domingo campus. November 2025.
 
-Information Technology Engineering — Universidad de las Fuerzas Armadas ESPE, Santo Domingo campus. November 2025.
+[![GitHub](https://img.shields.io/badge/GitHub-EMLarco-181717?style=flat&logo=github)](https://github.com/EMLarco)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esteban%20Larco-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/esteban-larco-66491843b)
 
 ## License
 
